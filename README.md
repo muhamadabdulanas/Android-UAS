@@ -6,8 +6,12 @@
 #### Mata Kuliah     : Pemrograman Mobile (UAS)
 #### Dosen Pengampu  : Donny Maulana, S.Kom., M.M.S.I
 
-# Demo Aplikasi
+# PDF Uas
 
+[Laporan uas android studi.pdf](https://github.com/muhamadabdulanas/Android-UAS/files/13944193/Laporan.uas.android.studi.pdf)
+
+
+# Demo Aplikasi
 
 
 
